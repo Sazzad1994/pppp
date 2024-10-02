@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\pppp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{682F1EC6-FD28-422A-817D-6A827775EB23}|pppp\\pppp.csproj|c:\\users\\user\\source\\repos\\pppp\\pppp\\components\\controls\\servercomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{682F1EC6-FD28-422A-817D-6A827775EB23}|pppp\\pppp.csproj|solutionrelative:pppp\\components\\controls\\servercomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{682F1EC6-FD28-422A-817D-6A827775EB23}|pppp\\pppp.csproj|c:\\users\\user\\source\\repos\\pppp\\pppp\\components\\pages\\mainservercomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{682F1EC6-FD28-422A-817D-6A827775EB23}|pppp\\pppp.csproj|solutionrelative:pppp\\components\\pages\\mainservercomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServerComponent.razor",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\pppp\\pppp\\Components\\Controls\\ServerComponent.razor",
+              "RelativeDocumentMoniker": "pppp\\Components\\Controls\\ServerComponent.razor",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\pppp\\pppp\\Components\\Controls\\ServerComponent.razor",
+              "RelativeToolTip": "pppp\\Components\\Controls\\ServerComponent.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T13:33:05.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainServerComponent.razor",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\pppp\\pppp\\Components\\Pages\\MainServerComponent.razor",
+              "RelativeDocumentMoniker": "pppp\\Components\\Pages\\MainServerComponent.razor",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\pppp\\pppp\\Components\\Pages\\MainServerComponent.razor",
+              "RelativeToolTip": "pppp\\Components\\Pages\\MainServerComponent.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T11:52:02.627Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
